@@ -1,0 +1,21 @@
+p{
+	text-align: center;
+}
+li{
+	font-size:25;
+	line-height: 42px;　
+}
+u{
+	font-size:35;
+}
+th{
+	width: 200;
+	background-color:#99BBFF;
+}
+.send{
+	text-align: center;
+}
+.info{
+	background-color:#FFDDAA;
+	line-height: 40px;
+}
