@@ -1,0 +1,100 @@
+<html>
+<head>
+<link rel="stylesheet" href="css/sdgs.css">
+<h1><p>聯合國永續翻展目標 - 重金屬汙染通報網</p></h1>
+<h2><p>Sustainable Development Goals (SDGs) - Reporting website</p></h2>
+</head>
+<body>
+<hr size=4 width="1210" align="left">
+<img src=1.png width="1200" height="400">
+<hr size=4 width="1210" align="left">
+<h2>此計畫關於...</h2>
+<br>
+<table>
+<tr>
+	<td colspan="2" align=center><u>Ensure HEALTHY lives and promote WELL-BEING for all at all ages</u></td>
+</tr>
+<tr>
+	<td>
+		<br>
+		<img src=3.png width="370" height="370"></td>
+	<td><br>
+		<ol>
+		<li>Reduce maternal mortality
+		<li>End all preventable deaths under 5 years of age
+		<li>Fight communicable diseases
+		<li>Reduce mortality from non-communicable diseases and promote mental health
+		<li>Prevent and treat substance abuse
+		<li>Reduce road injuries and deaths
+		<li>Universal access to sexual and reproductive care, family planning and education
+		<li>Achieve universal health coverage
+		<li>Reduce illnesses and deaths from hazardous chemicals and pollution
+		</ol>
+</tr>
+<tr>
+	<br>
+	<td colspan="2" align=center><u>Ensure access to WATER and SANITATION for all</u></td>
+</tr>
+<tr>
+	<td>
+		<br><img src=6.png width="370" height="370"></td>
+	<td><br>
+		<ol>
+		<li>Safe and affordable drinking water
+		<li>End open defecation and provide access to sanitation and hygiene
+		<li>Improve water quality, wastewater treatment and safe reuse
+		<li>Increase water use efficiency and ensure freshwater supplies
+		<li>Implement integrated water resources management
+		<li>Protect and restore water-related ecosystems
+		</ol>
+</tr>
+</table>
+<br>
+<hr size=4 width="1210" align="left">
+<form action="sdgs.html">
+<table border="1">
+<tr>
+	<td clospan="3"><u><i><font color="#CC0000">Online Reporting Form - Heavy Metal Pollution</font></i></u></td>
+</tr>
+<tr>
+	<td rowspan="7"><img src=taiwan.png width="570" height="580"></td>
+</tr>
+<tr>
+	<th>區域</th>
+	<td><input type="radio" name="situation" value="北部">北部<input type="radio" name="situation" value="中部">中部<input type="radio" name="situation" value="南部">南部<input type="radio" name="situation" value="東部">東部</td>
+</tr>
+<tr>
+	<th>發現地點</th>
+	<td><input type="text" placeholder="詳細說明" name="place"></td>
+</tr>
+<tr>
+	<th>發現時間</th>
+	<td><input type="text" placeholder="發現時間" name="time"></td>
+</tr>
+<tr>
+	<th>舉報人</th>
+	<td><input type="text" placeholder="姓名" name="name"></td>
+</tr>
+<tr>
+	<th>聯絡方式</th>
+	<td><input type="text" placeholder="手機號碼" name="phone"></td>
+</tr>
+<tr>
+	<td colspan="2"><p class=send><input type="submit" value="送出"></p></td>
+</tr>
+</table>
+</form>
+<br>
+<hr size=4 width="1210" align="left">
+<br>
+<iframe width="1100" height="520" src="metal.mp4"></iframe>
+<hr size=2 width="1210" align="left">
+<br>
+<p class=info>
+<br><u>聯絡方式</u>
+<br>10042臺北市中正區中華路一段83號
+<br>電話：(02)2511-2393
+<br>信箱：a0-od@epa.gov.tw
+</p>
+</body>
+</html>
